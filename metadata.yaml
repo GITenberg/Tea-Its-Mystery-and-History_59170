@@ -1,16 +1,21 @@
 _repo: Tea-Its-Mystery-and-History_59170
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Loh, Lo Fong
     gutenberg_agent_id: '50324'
     url: http://www.gutenberg.org/2009/agents/50324
+covers:
+- cover_type: archival
+  image_path: 59170-h/images/cover.jpg
 creator:
   author:
     agent_name: Day, Samuel Phillips
     gutenberg_agent_id: '42455'
     url: http://www.gutenberg.org/2009/agents/42455
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59170#Tea-Its-Mystery-and-History
 gutenberg_issued: '2019-03-31'
 gutenberg_type: Text
 identifiers:
